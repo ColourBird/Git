@@ -1,1 +1,3 @@
-a
+get lesson リポジトリ
+readme.mdはGitHubで紹介文章として使われている
+マークダウン形式のファイル
